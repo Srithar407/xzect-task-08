@@ -159,7 +159,7 @@ export default function Home() {
             </div>
             </div>
             <div className={styles.ttwo}>
-                <Image src="./profile.jpg" width={40} height={40} alt="profile" />
+                <Image src="./public/profile.jpg" width={40} height={40} alt="profile" />
                 <p className={styles.text}>“ We know the card market very well and this product provides the speed, flexible account model and API-first approach that no one else can. ”</p>
             </div>
             <div className={styles["two-card"]}>
@@ -190,7 +190,7 @@ export default function Home() {
                             </div>
                         </div>
                         <div className={styles["ttwo"]+" "+styles["tthree"]}>
-                            <Image src="./profile1.png" width={40} height={40} alt="profile" />
+                            <Image src="./public/profile1.png" width={40} height={40} alt="profile" />
                             <p className={styles["text"] + " " + styles["three-p"]}>“We know the card market very well and this product provides the speed, flexible account model and API-first approach that no one else can. ”</p>
                         </div>
                     </div>
